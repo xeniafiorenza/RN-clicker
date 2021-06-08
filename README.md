@@ -1,4 +1,4 @@
-# RN-clicker
+# code_exp-clicker
 
 React Native clicker app for code_exp training workshop. It's in dark mode because I like dark mode.
 
