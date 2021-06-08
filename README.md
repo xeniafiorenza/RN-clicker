@@ -1,14 +1,10 @@
 # code_exp-clicker
 
-React Native (Expo) clicker app for code_exp training workshop. It's in dark mode because I like dark mode.
+React Native (Expo) clicker app for code_exp training workshop 1. It's in dark mode because I like dark mode.
 
 [Expo Snack](https://snack.expo.io/@xeniafiorenza/clicker-app)
 
 ---
-
-## Requirements
-1. NodeJS
-2. `expo-cli` (installed via npm)
 
 ## Credits
 
